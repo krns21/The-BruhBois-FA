@@ -3,6 +3,6 @@
 ## Features
 
 ## Ballon d'Or points system
-![alt text](.../BallondorBreakdown "Ballon d'Or Points System")
+![alt text](../BallondorBreakdown.png "Ballon d'Or Points System")
 
 
