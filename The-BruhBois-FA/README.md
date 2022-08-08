@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Deploy on GH pages
+
+Run `ng build --configuration production --base-href "https://krns21.github.io/The-BruhBois-FA/"` to build project for GH.
+
+Run `npx angular-cli-ghpages --dir=dist/the-bruh-bois-fa` to deploy on GH.
+
