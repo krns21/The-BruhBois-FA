@@ -5,7 +5,6 @@
 ## Ballon d'Or points system
 
 | Premier League | Champions League | Europa League | FA Cup |
-|:--- |:--- |:--- |:--- |
 | Position | Points | Position | Points | Position | Points | Position | Points |
 |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
 | 1 | 26 | 1 | 22 | 1 | 10 | 1 | 14 |
