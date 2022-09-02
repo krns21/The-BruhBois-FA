@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Deploy on GH pages
 
-Run `ng build --configuration production --base-href "https://krns21.github.io/The-BruhBois-FA/"` to build project for GH.
+Run `ng build --configuration production --base-href "https://krns21.github.io/LocalityBois/"` to build project for GH.
 
-Run `npx angular-cli-ghpages --dir=dist/the-bruh-bois-fa` to deploy on GH.
+Run `npx angular-cli-ghpages --dir=dist/locality-bois` to deploy on GH.
 
